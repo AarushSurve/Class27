@@ -1,5 +1,5 @@
 class Chain{
-    constuctor(object1,object2){
+    constructor(object1,object2){
         var options={
             bodyA:object1,
             bodyB:object2,
